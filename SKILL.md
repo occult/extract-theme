@@ -2,7 +2,7 @@
 name: extract-theme
 description: Extract a website's complete visual theme (colors, typography, spacing, gradients, shadows, border radii) using Chrome DevTools and convert it to a tweakcn-compatible shadcn/ui CSS theme. Use when the user wants to clone or replicate a website's design system into their Tailwind CSS / shadcn project.
 metadata:
-  author: dona-platform
+  author: occult
   version: "1.0"
 ---
 
